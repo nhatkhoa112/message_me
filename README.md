@@ -6,6 +6,6 @@ Pre-work - Rails blog for Udemy
 
 Rails app for Udemy is a Ruby on Rails chat app.
 
-Submitted by: Nguyen Nhat Khoa install bootstrap in rails 6 build homepage
+Submitted by: Nguyen Nhat Khoa 
 
 url: http://sleepy-springs-31719.herokuapp.com/
